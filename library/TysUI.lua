@@ -1,3 +1,4 @@
+-- TysUI Library (Purple Edition) -- extracted from Tys Client V8.2
 return (function()
     local UIS = game:GetService("UserInputService")
     local TS  = game:GetService("TweenService")
